@@ -14,15 +14,15 @@ body{
     margin: 0;
 }
 
-nav{
+nav.header{
     width: 100%;
     padding: 0;
     margin: 0;
     width: 100%;
     height: 80px;
     border: 1px solid black;
-    margin-top: 10px;
-    background-color: #1c1c1ceb;    
+    background-color: #1c1c1ceb;  
+    margin-bottom: 20px;  
 }
 h1{
         font-family: "Poppins", sans-serif;
